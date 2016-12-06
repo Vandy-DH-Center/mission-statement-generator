@@ -1,0 +1,18 @@
+{
+	"sentences": {
+		"sentence0": ["The Vanderbilt Center for Digital Humanities is a", "_noun_", "for", "_adjective_", "_noun_", "_adjective_", "and", "_adjective_", "_noun_", "and", "_noun_", "to the", "_noun_", "and society at large."],
+		"sentence1": "The Vanderbilt Center for Digital Humanities is a _noun_ for _adjective_ _noun_, _adjective_ and _adjective_ _noun_, and _noun_ to the _noun_ and society at large."
+	},
+	"adjectives": {
+		"adjective0": ["scholarly", "digital", "interdisciplinary"]
+	},
+	"adverbs": {
+		"adverb0": ["collaboratively", "digitally", "innovatively", "intellectually", "flexibly"]
+	},
+	"nouns": {
+		"noun0": [""]
+	},
+	"verbs": {
+		"verb0": [""]
+	}
+}
