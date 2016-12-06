@@ -1,18 +1,17 @@
 {
 	"sentences": {
-		"sentence0": ["The Vanderbilt Center for Digital Humanities is a", "_noun_", "for", "_adjective_", "_noun_", "_adjective_", "and", "_adjective_", "_noun_", "and", "_noun_", "to the", "_noun_", "and society at large."],
-		"sentence1": "The Vanderbilt Center for Digital Humanities is a _noun_ for _adjective_ _noun_, _adjective_ and _adjective_ _noun_, and _noun_ to the _noun_ and society at large."
+		"sentence": ["The Vanderbilt Center for Digital Humanities is a <noun> for <adjective> <noun>, <adjective> and <adjective> <noun>, and <noun> to the <noun> and society at large.", "At the Vanderbilt DH Center, we encourage and facilitate <adjective> and <adjective> <noun> that <adverb> <verb> for both scholarly and professional communities.", "The Vanderbilt Center for Digital Humanities is a <adjective> <noun> that <verb> <noun>, <noun>, <noun>, and <noun> in <noun> and <noun>.","Through <noun>, <noun>, <noun>, and the development of <noun>, the Center for Digital Humanities <verb> faculty and graduate <noun> in the digital humanities— especially those eligible for grant-funded opportunities."]
 	},
 	"adjectives": {
-		"adjective0": ["scholarly", "digital", "interdisciplinary"]
+		"adjective": ["scholarly", "digital", "interdisciplinary"]
 	},
 	"adverbs": {
-		"adverb0": ["collaboratively", "digitally", "innovatively", "intellectually", "flexibly"]
+		"adverb": ["collaboratively", "digitally", "innovatively", "intellectually", "flexibly"]
 	},
 	"nouns": {
-		"noun0": [""]
+		"noun": ["center", "nexus", "humanities"]
 	},
 	"verbs": {
-		"verb0": [""]
+		"verb": ["make", "produce", "facilitate"]
 	}
 }
